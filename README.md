@@ -1,4 +1,0 @@
-Candyvutu
-=========
-
-Project cá nhân
